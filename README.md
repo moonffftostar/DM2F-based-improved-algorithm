@@ -56,3 +56,7 @@ Training a model on a single RTX3090 GPU takes about 4 hours.
 *Settings* of testing were set at the top of `test.py`, and you can conveniently
 change them as you need.
 
+## Weights
+The trained weights can be downloaded from [here](https://pan.baidu.com/s/1cmDBMApFvw3kGqcjbydlog) 
+提取码：j7xw 
+
