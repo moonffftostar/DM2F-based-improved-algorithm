@@ -7,10 +7,6 @@ By Zijun Deng, Lei Zhu, Xiaowei Hu, Chi-Wing Fu, Xuemiao Xu, Qing Zhang, Jing Qi
 
 (ICCV 2019), written by Zijun Deng at the South China University of Technology.
 
-## Results
-
-The dehazing results can be found at 
-[Google Drive](https://drive.google.com/drive/folders/1ZVBI_3Y2NthVLeK7ODMIB5vRjmN9payF?usp=sharing).
 
 ## Installation & Preparation
 
